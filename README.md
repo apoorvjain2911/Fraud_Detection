@@ -1,6 +1,6 @@
 # AI-Powered Fraud Detection System
 
-An end-to-end machine learning solution for detecting fraudulent financial transactions using data preprocessing, exploratory data analysis, feature engineering, and XGBoost
+An end-to-end machine learning solution for detecting fraudulent financial transactions using data preprocessing, exploratory data analysis, feature engineering, and XGBoost.
 
 ---
 
